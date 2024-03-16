@@ -1,0 +1,5 @@
+bin
+*.swp
+coverage.out
+demo/typer
+demo/demo.sh
